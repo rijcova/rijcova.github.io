@@ -1,0 +1,31 @@
+{
+  "name": "optimizedhtml",
+  "version": "3.0.0",
+  "description": "OptimizedHTML - Start HTML Template",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "WebDesign Master",
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "*",
+    "del": "*",
+    "gulp": "*",
+    "gulp-autoprefixer": "*",
+    "gulp-cache": "*",
+    "gulp-clean-css": "*",
+    "gulp-concat": "*",
+    "gulp-imagemin": "*",
+    "gulp-notify": "*",
+    "gulp-rename": "*",
+    "gulp-rsync": "*",
+    "gulp-sass": "*",
+    "gulp-uglify": "*",
+    "gulp-util": "*",
+    "vinyl-ftp": "*"
+  },
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^5.2.0"
+  }
+}
